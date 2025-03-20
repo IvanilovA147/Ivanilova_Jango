@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3199c597-f0f0-46dd-b984-526f0e1049a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ivanilova_Jango/Project_Django/project_Django/my_db" beforeDir="false" afterPath="$PROJECT_DIR$/Ivanilova_Jango/Project_Django/project_Django/my_db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ivanilova_Jango/Project_Django/project_Django/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ivanilova_Jango/Project_Django/project_Django/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ivanilova_Jango/Project_Django/project_Django/project_Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ivanilova_Jango/Project_Django/project_Django/project_Django/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="3199c597-f0f0-46dd-b984-526f0e1049a8" name="Changes" comment="done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +45,19 @@
       <option name="presentableId" value="Default" />
       <updated>1742452185442</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1742455082607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742455082607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
