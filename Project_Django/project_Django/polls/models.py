@@ -1,6 +1,7 @@
 from django.db import models
 
 class Question(models.Model):
+    objects = None
     question_text = models.CharField(max_length=255)
     pub_date = models.DateTimeField(auto_now_add=True)
 
